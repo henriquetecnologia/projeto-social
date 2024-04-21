@@ -41,3 +41,13 @@ section#telefone {
     background-repeat: no-repeat;
 }
 
+iframe#tela {
+    height: 471px;
+    width: 270px;
+
+    position: absolute;
+
+    top: 80px;
+    left: 20px;
+}
+

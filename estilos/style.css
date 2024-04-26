@@ -52,7 +52,7 @@ section#telefone > iframe {
 }
 
 section#botoes img {
-    width: 60px;
+    width: 5vw;
     border-radius: 50%;
     margin: 10px;
     box-sizing: border-box;
